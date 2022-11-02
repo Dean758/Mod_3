@@ -7,7 +7,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color:grey;
+  background-color:mediumvioletred;
   border-radius: 0;
   border: 0;
 }
@@ -51,7 +51,7 @@ h2 { /* menu */
 #nav-list a {
   color: black;
   text-align: center;
-  background-color: darkgrey;
+  background-color: lightblue;
 }
 #nav-list a:hover {
   background: #E7E7E7;
@@ -71,33 +71,21 @@ h2 { /* menu */
 }
 /* END HEADER */
 
-  
-.row {
- position: relative;
- margin-left: 30px;
-  
-  right: 30px;
-  border: 3px solid #73AD21: ;
-    background-color: grey;
-    font-size: 1.6em;
-   padding: 15px;
-    float: left;
-    height: 750px;
-    width: 100%;
-    text-align: center;
 
+.row {background-color: white;
+  width: 100%;
+  ;
 }
-       }
+  
+p{
 
-.row section{
-  align-content: center;
-  font-weight: bold;
+  padding: 20px;
+  margin-left: 50px;
+  margin-right: 25px;
+  margin-bottom: 100px;
+  height: 500px;
   text-align: center;
-  padding-top: 10px;
-      }
-
-.row p{
-   align-content: center;
-   font-size: .8Sem;
+  color: black;
+  background-color: darkgrey;
+  line-height: 2;
 }
-
